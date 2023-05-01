@@ -35,4 +35,9 @@ hr{
 .date{
     text-align: right;
     font-weight: bold;
+    float:right;
+}
+
+.company-logo{
+    height: 30;
 }
